@@ -1,1 +1,1 @@
-# Machine Learning Practice Projrct
+# Machine Learning Practice Project
